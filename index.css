@@ -1,0 +1,17 @@
+#card_items{
+    display: flex;
+
+}
+
+#card_items>div{
+    background-color: #893f3fa7;
+    width: 150px;
+    padding: 20px;
+}
+.element_number{
+    position: absolute;
+}
+#card_items>div>img{
+    width: 100px;
+    height: 100px;
+}
